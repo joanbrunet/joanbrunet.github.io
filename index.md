@@ -6,4 +6,4 @@ layout: homepage
 
 Aquí pones tus movidas. Si pones links tienen que ser [así].
 
-[Here]((./assets/files/curriculum_vitae.pdf)) is my CV.
+[Here](assets/files/curriculum_vitae.pdf) is my CV.
