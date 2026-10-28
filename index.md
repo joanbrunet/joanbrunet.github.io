@@ -13,4 +13,4 @@ I currently work at Universitat de Barcelona as a research assistant in the proj
 
 On a personal level, I am interested in electronic and ambient music.
 
-If of any interest, [here](assets/files/BRUNET-VERDAGUER_JOAN_CV_2026.pdf) is my CV.
+If of any interest, [here](assets/files/academic26_Brunet_Verdaguer_Joan__CV.pdf) is my CV.
